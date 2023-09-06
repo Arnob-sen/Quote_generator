@@ -1,6 +1,7 @@
 
 import React from "react";
 import { useState } from "react";
+import './App.css';
 const quoteData = [
   { text: `“The purpose of our lives is to be happy.”`, author: "Dalai Lama" },
   { text: `“Life is what happens when you’re busy making other plans.”`, author: "John Lennon" },
